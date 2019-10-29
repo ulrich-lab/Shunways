@@ -43,7 +43,6 @@
         android:layout_marginRight="118dp"
         android:layout_marginBottom="364dp"
         android:background="#11000000"
-        android:drawableLeft="@drawable/ic_action_user"
         android:ems="10"
         android:hint="User name"
         android:inputType="textPersonName"
@@ -67,7 +66,6 @@
         android:layout_marginRight="114dp"
         android:layout_marginBottom="299dp"
         android:background="#11000000"
-        android:drawableLeft="@drawable/ic_action_pass"
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword" />
