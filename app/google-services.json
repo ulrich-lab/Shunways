@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816683249781",
+    "firebase_url": "https://shunways.firebaseio.com",
+    "project_id": "shunways",
+    "storage_bucket": "shunways.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816683249781:android:d47e1aca3a798f4c26883c",
+        "android_client_info": {
+          "package_name": "com.example.shunways"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816683249781-ji9s7qk0lrf705qjf8hnlbgd7tinotbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shunways",
+            "certificate_hash": "22022cac68fe89da0b68fec0f5696966acc965ab"
+          }
+        },
+        {
+          "client_id": "816683249781-oi162hg791cosbddpsgs91t4619irndg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1p3toyzf7b2kmMpN9JHqGi6Lf0znQEQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816683249781-oi162hg791cosbddpsgs91t4619irndg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
